@@ -11,7 +11,7 @@
       "price": "Price: $449.00",
       "desc": "$67/mo suggested payments with 6‑month special financing.\nLearn how.",
       "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
-      "order":"camera",
+      "ordering":"camera",
       "id": "1"
     },
     {
@@ -21,7 +21,7 @@
       "price": "Price: $6,399.00",
       "desc": "$75/mo suggested payments with 6‑month special financing.\nLearn how.",
       "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
-      "order":"lense",
+      "ordering":"lense",
       "id": "2"
     },
     {
@@ -31,7 +31,7 @@
       "price": "Price: $1,499.99",
       "desc": "$534/mo suggested payments with 12‑month special financing.\nLearn how.",
       "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
-      "order":"camera",
+      "ordering":"camera",
       "id": "3"
     },
     {
@@ -41,7 +41,7 @@
       "price": "Price: $2,099.00",
       "desc": "$125/mo suggested payments with 12‑month special financing.\nLearn how.",
       "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
-      "order":"lense",
+      "ordering":"lense",
       "id": "4"
     },
     {
@@ -51,7 +51,7 @@
       "price": "Price: $1,699.00",
       "desc": "$175/mo suggested payments with 12‑month special financing.\nLearn how.",
       "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
-      "order":"camera",
+      "ordering":"camera",
       "id":"5"
     },
     {
@@ -61,7 +61,7 @@
       "price": "Price: $2,099.00",
       "desc": "$104/mo suggested payments with 12‑month special financing.\nLearn how.",
       "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
-      "order":"digital",
+      "ordering":"digital",
       "id":"6"
     },
     {
@@ -71,7 +71,7 @@
       "price": "Price: $484.99",
       "desc": "$142/mo suggested payments with 12‑month special financing.\nLearn how.",
       "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
-      "order":"digital",
+      "ordering":"digital",
       "id":"7"
     },
     {
@@ -81,7 +81,7 @@
       "price": "Price: $2,599.99",
       "desc": "$175/mo suggested payments with 12‑month special financing.\nLearn how.",
       "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
-      "order":"camera",
+      "ordering":"camera",
       "id":"8"
     },
     {
@@ -91,7 +91,7 @@
       "price": "Price: $5,646.90",
       "desc": "$81/mo suggested payments with 6‑month special financing.\nLearn how.",
       "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
-      "order":"digital",
+      "ordering":"digital",
       "id": "9"
     },
     {
@@ -101,7 +101,7 @@
       "price": null,
       "desc": "$217/mo suggested payments with 12‑month special financing.\nLearn how.",
       "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
-      "order":"digital",
+      "ordering":"digital",
       "id":"10"
     },
     {
@@ -111,7 +111,7 @@
       "price": null,
       "desc": "$314/mo suggested payments with 18‑month special financing.\nLearn how.",
       "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
-      "order":"digital",
+      "ordering":"digital",
       "id": "11"
     },
     {
@@ -121,7 +121,7 @@
       "price": null,
       "desc": null,
       "desc_link": null,
-      "order":"digital",
+      "ordering":"digital",
       "id": "12"
     }
   ]
