@@ -10,7 +10,9 @@
       "title_link": "https://www.adorama.com/se508675.html",
       "price": "Price: $449.00",
       "desc": "$67/mo suggested payments with 6‑month special financing.\nLearn how.",
-      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop"
+      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
+      "order":"camera",
+      "id": "1"
     },
     {
       "img": "https://www.adorama.com/images/product/pkes60brn.jpg",
@@ -18,7 +20,9 @@
       "title_link": "https://www.adorama.com/pkes60brn.html",
       "price": "Price: $6,399.00",
       "desc": "$75/mo suggested payments with 6‑month special financing.\nLearn how.",
-      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop"
+      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
+      "order":"lense",
+      "id": "2"
     },
     {
       "img": "https://www.adorama.com/images/product/hs907x50cl1.jpg",
@@ -26,7 +30,9 @@
       "title_link": "https://www.adorama.com/hs907x50cl1.html",
       "price": "Price: $1,499.99",
       "desc": "$534/mo suggested payments with 12‑month special financing.\nLearn how.",
-      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop"
+      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
+      "order":"camera",
+      "id": "3"
     },
     {
       "img": "https://www.adorama.com/images/product/iomom5bk.jpg",
@@ -34,7 +40,9 @@
       "title_link": "https://www.adorama.com/iomom5bk.html",
       "price": "Price: $2,099.00",
       "desc": "$125/mo suggested payments with 12‑month special financing.\nLearn how.",
-      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop"
+      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
+      "order":"lense",
+      "id": "4"
     },
     {
       "img": "https://www.adorama.com/images/product/car5012.jpg",
@@ -42,7 +50,9 @@
       "title_link": "https://www.adorama.com/car5012.html",
       "price": "Price: $1,699.00",
       "desc": "$175/mo suggested payments with 12‑month special financing.\nLearn how.",
-      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop"
+      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
+      "order":"camera",
+      "id":"5"
     },
     {
       "img": "https://www.adorama.com/images/product/sebd6b.jpg",
@@ -50,7 +60,9 @@
       "title_link": "https://www.adorama.com/sebd6b.html",
       "price": "Price: $2,099.00",
       "desc": "$104/mo suggested payments with 12‑month special financing.\nLearn how.",
-      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop"
+      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
+      "order":"digital",
+      "id":"6"
     },
     {
       "img": "https://www.adorama.com/images/product/fplfx600tbbf.jpg",
@@ -58,7 +70,9 @@
       "title_link": "https://www.adorama.com/fplfx600tbbf.html",
       "price": "Price: $484.99",
       "desc": "$142/mo suggested payments with 12‑month special financing.\nLearn how.",
-      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop"
+      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
+      "order":"digital",
+      "id":"7"
     },
     {
       "img": "https://www.adorama.com/images/product/cark2fl.jpg",
@@ -66,7 +80,9 @@
       "title_link": "https://www.adorama.com/cark2fl.html",
       "price": "Price: $2,599.99",
       "desc": "$175/mo suggested payments with 12‑month special financing.\nLearn how.",
-      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop"
+      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
+      "order":"camera",
+      "id":"8"
     },
     {
       "img": "https://www.adorama.com/images/product/acmk1e3lla.jpg",
@@ -74,7 +90,9 @@
       "title_link": "https://www.adorama.com/acmk1e3lla.html",
       "price": "Price: $5,646.90",
       "desc": "$81/mo suggested payments with 6‑month special financing.\nLearn how.",
-      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop"
+      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
+      "order":"digital",
+      "id": "9"
     },
     {
       "img": "https://www.adorama.com/images/product/mimjx00001.jpg",
@@ -82,7 +100,9 @@
       "title_link": "https://www.adorama.com/mimjx00001.html",
       "price": null,
       "desc": "$217/mo suggested payments with 12‑month special financing.\nLearn how.",
-      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop"
+      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
+      "order":"digital",
+      "id":"10"
     },
     {
       "img": "https://www.adorama.com/images/product/iomom1k.jpg",
@@ -90,7 +110,9 @@
       "title_link": "https://www.adorama.com/iomom1k.html",
       "price": null,
       "desc": "$314/mo suggested payments with 18‑month special financing.\nLearn how.",
-      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop"
+      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
+      "order":"digital",
+      "id": "11"
     },
     {
       "img": "https://www.adorama.com/images/product/nkz9ftz.jpg",
@@ -98,7 +120,9 @@
       "title_link": "https://www.adorama.com/nkz9ftz.html",
       "price": null,
       "desc": null,
-      "desc_link": null
+      "desc_link": null,
+      "order":"digital",
+      "id": "12"
     }
   ]
 }
