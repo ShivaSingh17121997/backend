@@ -126,46 +126,7 @@
     }
   ],
   "Cart": [
-    {
-      "img": "https://www.adorama.com/images/product/se508675.jpg",
-      "title": "Sennheiser RS 195 Digital Wireless Dynamic Headphone System with TR 195 Tx",
-      "title_link": "https://www.adorama.com/se508675.html",
-      "price": "449.00",
-      "desc": "$67/mo suggested payments with 6‑month special financing.\nLearn how.",
-      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
-      "ordering":"camera",
-      "id": "1"
-    },
-    {
-      "img": "https://www.adorama.com/images/product/pkes60brn.jpg",
-      "title": "Polk Audio Signature Elite ES60 Floorstanding Speaker, Walnut",
-      "title_link": "https://www.adorama.com/pkes60brn.html",
-      "price": "6,399.00",
-      "desc": "$75/mo suggested payments with 6‑month special financing.\nLearn how.",
-      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
-      "ordering":"lense",
-      "id": "2"
-    },
-    {
-      "img": "https://www.adorama.com/images/product/hs907x50cl1.jpg",
-      "title": "Hasselblad 907X 50C Medium Format Mirrorless Camera with XCD 45mm f/4 P Lens",
-      "title_link": "https://www.adorama.com/hs907x50cl1.html",
-      "price": "1,499.99",
-      "desc": "$534/mo suggested payments with 12‑month special financing.\nLearn how.",
-      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
-      "ordering":"camera",
-      "id": "3"
-    },
-    {
-      "img": "https://www.adorama.com/images/product/iomom5bk.jpg",
-      "title": "OM SYSTEM OM-5 Mirrorless Camera with M.Zuiko ED 12-45mm f/4.0 PRO Lens, Black",
-      "title_link": "https://www.adorama.com/iomom5bk.html",
-      "price": "2,099.00",
-      "desc": "$125/mo suggested payments with 12‑month special financing.\nLearn how.",
-      "desc_link": "https://www.adorama.com//api/getcontent?ContentName=CAFinancingPromo&Output=Desktop",
-      "ordering":"lense",
-      "id": "4"
-    }
+    
   ], 
   "Home": [
     {
